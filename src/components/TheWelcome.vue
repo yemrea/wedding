@@ -1,3 +1,25 @@
+<script lang="ts">
+export default{
+  data(){
+    return { timerDuration:1000, weddingDate:Number(Date.UTC(2023,1,18,17,0)), remainingTime:"0" }
+  },
+  methods:{
+    countDownTimer(){
+        setTimeout(()=>{
+          const msInDay = 24 * 60 * 60 * 1000;
+          const diff = this.weddingDate- Number(new Date());
+          var d=Math.round(diff / msInDay);
+          var h = new Date(diff).getHours();
+          var m = new Date(diff).getMinutes();
+          var s = new Date(diff).getSeconds();
+          this.remainingTime= String(d)+" days "+String(h)+" hours "+String(m)+" minutes "+String(s)+" seconds";
+          this.countDownTimer();
+        },this.timerDuration);
+    },
+  },
+  created(){this.countDownTimer();}
+}
+</script>
 <script setup lang="ts">
 import WelcomeItem from './WelcomeItem.vue'
 import DocumentationIcon from './icons/IconDocumentation.vue'
@@ -6,10 +28,8 @@ import EcosystemIcon from './icons/IconEcosystem.vue'
 import CommunityIcon from './icons/IconCommunity.vue'
 import SupportIcon from './icons/IconSupport.vue'
 import IconCommunity from './icons/IconCommunity.vue'
+import { handleError } from 'vue'
 
-defineProps<{
-  counterValue: string
-}>()
 </script>
 
 
@@ -40,7 +60,7 @@ defineProps<{
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>{{counterValue}} days left</template>
+    <template #heading>{{remainingTime}} left</template>
 
   </WelcomeItem>
 </template>
