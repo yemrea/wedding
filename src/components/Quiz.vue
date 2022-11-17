@@ -10,13 +10,13 @@ defineProps<{
   <section class="wpo-contact-section-s3 section-padding" id="quiz">
     <div class="container">
       <div class="wpo-section-title">
-        <h4>How much do you know us?</h4>
-        <h2>Let's play a game</h2>
+        <h4>{{ $t('title.HowMuchDoYouKnowUs') }}</h4>
+        <h2>{{ $t('title.PlayAGame') }}</h2>
       </div>
       <div class="clearfix">
         <div class="greetings">
           <h2 class="green">{{ msg }}</h2>
-          {{ $t('menu.Home') }}
+          questions will appear here
         </div>
       </div>
     </div>

@@ -43,14 +43,14 @@
                                 </ul>
                             </div><!-- end of nav-collapse -->
                         </div>
-                        <div class="col-lg-2 col-md-2 col-2">
-                            <div class="header-right">
-                                <div class="dropdown">
+                        <div class="col-lg-1 col-md-1 col-1" >
+                            <div class="header-right" style="border:2px solid #red">
+                                <div class="btn-group">
                                     <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"
                                         id="localeSelector">
                                         <img :src="`/assets/images/locale/${$i18n.locale}.png`" /> {{ $t(`menu.${$i18n.locale}`)}}
                                     </button>
-                                    <ul class="dropdown-menu" aria-labelledby="localeSelector">
+                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="localeSelector">
                                         <li v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale"><a href="#"
                                                 @click="$i18n.locale=`${locale}`" class="dropdown-item pe-auto"> <img :src="`/assets/images/locale/${locale}.png`" /> {{
                                                 $t(`menu.${locale}`)}}</a></li>

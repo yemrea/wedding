@@ -22,7 +22,9 @@
         "Days": "Days",
         "Hours": "Hours",
         "Minutes": "Mins",
-        "Seconds": "Sec"
+        "Seconds": "Sec",
+        "HowMuchDoYouKnowUs": "How well do you know us?",
+        "PlayAGame": "Let's play a game!"
     },
     "text":{
         "WeAreGettingMarried": "We Are Getting Married on February 18, 2023",

@@ -22,7 +22,9 @@
         "Days": "Dagen",
         "Hours": "Uur",
         "Minutes": "Minuten",
-        "Seconds": "Seconden"
+        "Seconds": "Seconden",
+        "HowMuchDoYouKnowUs": "Hoe goed ken je ons?",
+        "PlayAGame": "Laten we een spel spelen!"
     },
     "text": {
         "WeAreGettingMarried": "We gaan trouwen op 18 Februari 2023",
