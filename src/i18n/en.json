@@ -6,8 +6,26 @@
         "Quiz": "Quiz",
         "AboutUs": "About Us",
         "Gallery": "Gallery",
+        "Contact": "Contacts",
         "en": "English",
         "tr": "Turkce",
         "nl": "Nederland"
+    },
+    "title":{
+        "OurWedding":"Our Wedding",
+        "WhenWhere":"When? & Where?",
+        "OurStory":"Our Story",
+        "OurSweetStory":"Our Sweet Love Story",
+        "WhoWeAre":"Who We Are?",
+        "SweetMemories":"Sweet Memories",
+        "SweetMemoriesSubtitle":"Our Captured Moments",
+        "Days": "Days",
+        "Hours": "Hours",
+        "Minutes": "Mins",
+        "Seconds": "Sec"
+    },
+    "text":{
+        "WeAreGettingMarried": "We Are Getting Married on February 18, 2023",
+        "AllRightReserved":"All rights reserved."
     }
 }

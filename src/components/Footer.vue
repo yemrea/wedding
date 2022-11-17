@@ -11,11 +11,11 @@
                 <div class="col-12">
                     <div class="footer-link">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">Wedding Invitation</a></li>
-                            <li><a href="index-2.html">Gallery</a></li>
-                            <li><a href="portfolio-grid.html">About Us</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="#header">{{ $t('menu.Home') }}</a></li>
+                            <li><a href="#event">{{ $t('menu.WeddingInvitation') }}</a></li>
+                            <li><a href="#gallery">{{ $t('menu.Gallery') }}</a></li>
+                            <li><a href="#couple">{{ $t('menu.AboutUs') }}</a></li>
+                            <li><a href="contact.html">{{ $t('menu.Contact') }}</a></li>
                         </ul>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-12">
                     <div class="copyright">
-                        <p>© Copyright 2022 | <a href="index.html">Bilgen & Yemre</a> | All right reserved.</p>
+                        <p>© Copyright 2022 | <a href="#">Bilgen & Yemre</a> | {{$t('text.AllRightReserved')}}</p>
                     </div>
                 </div>
             </div>

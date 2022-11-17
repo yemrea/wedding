@@ -2,8 +2,7 @@
     <!-- start couple-section -->
     <section class="wpo-couple-section section-padding" id="couple">
         <div class="wpo-section-title">
-            <h4>Who we are?</h4>
-            <h2>Biz kimiz?</h2>
+            <h4>{{ $t('title.WhoWeAre') }}</h4>
         </div>
         <div class="container">
             <div class="couple-area clearfix">

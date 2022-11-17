@@ -6,8 +6,26 @@
         "Quiz": "Yarisma",
         "AboutUs": "Hakkimizda",
         "Gallery": "Galeri",
+        "Contact": "Iletisim",
         "en": "English",
         "tr": "Turkce",
         "nl": "Nederland"
+    },
+    "title":{
+        "OurWedding":"Dugunumuz",
+        "WhenWhere":"Ne zaman? & Nerede?",
+        "OurStory":"Hikayemiz",
+        "OurSweetStory":"Bizim Ask Hikayemiz",
+        "WhoWeAre":"Biz Kimiz?",
+        "SweetMemories":"Guzel Anlarimiz",
+        "SweetMemoriesSubtitle":"Kayitli anlarimiz",
+        "Days": "Gun",
+        "Hours": "Saat",
+        "Minutes": "Dakika",
+        "Seconds": "Saniye"
+    },
+    "text":{
+        "WeAreGettingMarried": "18 Subat 2023'te Evleniyoruz",
+        "AllRightReserved":"Tum haklari saklidir."
     }
 }

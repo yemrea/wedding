@@ -3,8 +3,8 @@
     <section class="wpo-story-section section-padding" id="story">
         <div class="container-fluid">
             <div class="wpo-section-title">
-                <h4>Our Story</h4>
-                <h2>Our Sweet love story</h2>
+                <h4>{{ $t('title.OurStory') }}</h4>
+                <h2>{{ $t('title.OurSweetStory') }}</h2>
             </div>
             <div class="wpo-story-wrap">
                 <div class="wpo-story-item">

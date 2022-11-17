@@ -1,13 +1,31 @@
 {
-    "menu":{
-        "Home": "Home",
-        "WeddingInvitation": "Wedding Invitation",
-        "OurStory": "Our Story",
-        "Quiz": "Quiz",
-        "AboutUs": "About Us",
-        "Gallery": "Gallery",
+    "menu": {
+        "Home": "Voorpagina",
+        "WeddingInvitation": "Uitnodiging",
+        "OurStory": "Ons Verhaal",
+        "Quiz": "Vragenspel",
+        "AboutUs": "Over Ons",
+        "Contact": "Contact",
+        "Gallery": "Galerij",
         "en": "English",
         "tr": "Turkce",
         "nl": "Nederland"
+    },
+    "title": {
+        "OurWedding": "Onze Bruiloft",
+        "WhenWhere": "Wanner? & Waar?",
+        "OurStory": "Ons Verhaal",
+        "OurSweetStory": "Ons Zoete Liefdesverhaal",
+        "WhoWeAre": "Wie we zijn?",
+        "SweetMemories": "Zoete Herinneringen",
+        "SweetMemoriesSubtitle": "Onze Vastgelegde Momenten",
+        "Days": "Dagen",
+        "Hours": "Uur",
+        "Minutes": "Minuten",
+        "Seconds": "Seconden"
+    },
+    "text": {
+        "WeAreGettingMarried": "We gaan trouwen op 18 Februari 2023",
+        "AllRightReserved":"Alle rechten voorbehouden."
     }
 }

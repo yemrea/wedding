@@ -7,7 +7,7 @@
                 Bilgen & Yemre
                 <span class="shape-2"><img src="/assets/images/slider/shape2.png" alt=""> </span>
             </h2>
-            <p class="wow fadeInUp" data-wow-duration="1200ms">We Are Getting Married February 18,2023</p>
+            <p class="wow fadeInUp" data-wow-duration="1200ms">{{ $t('text.WeAreGettingMarried') }}</p>
             <div class="row wow fadeInUp" data-wow-duration="1400ms">
                 <div class="col col-xs-12">
                     <div class="clock-grids">

@@ -3,8 +3,8 @@
     <section class="wpo-event-section section-padding pb-0" id="event">
         <div class="container">
             <div class="wpo-section-title">
-                <h4>Our Wedding</h4>
-                <h2>When & Where</h2>
+                <h4>{{ $t('title.OurWedding') }}</h4>
+                <h2>{{ $t('title.WhenWhere') }}</h2>
             </div>
             <div class="wpo-event-wrap">
                 <div class="row">
@@ -55,7 +55,7 @@
                             <div class="wpo-event-img">
                                 <img src="/assets/images/event/3.jpg" alt="">
                                 <div class="title">
-                                    <h2>Huwelijk</h2>
+                                    <h2>Bruiloft</h2>
                                 </div>
                             </div>
                             <div class="wpo-event-text">
