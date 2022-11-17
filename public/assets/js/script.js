@@ -965,11 +965,10 @@ wpo-service-active SLIDER
     -------------------------------------------*/
     if ($("#clock").length) {
         $('#clock').countdown('2023/02/18 19:30:00', function (event) {
-            var $this = $(this).html(event.strftime(''
-                + '<div class="box"><div><div class="time">%D</div> <span>Days</span> </div></div>'
-                + '<div class="box"><div><div class="time">%H</div> <span>Hours</span> </div></div>'
-                + '<div class="box"><div><div class="time">%M</div> <span>Mins</span> </div></div>'
-                + '<div class="box"><div><div class="time">%S</div> <span>Secs</span> </div></div>'));
+            var $this = $("#clock-d").html(event.strftime('%D'));
+            var $this = $("#clock-h").html(event.strftime('%H'));
+            var $this = $("#clock-m").html(event.strftime('%M'));
+            var $this = $("#clock-s").html(event.strftime('%S'));
         });
     }
 

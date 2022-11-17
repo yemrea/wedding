@@ -11,7 +11,12 @@
             <div class="row wow fadeInUp" data-wow-duration="1400ms">
                 <div class="col col-xs-12">
                     <div class="clock-grids">
-                        <div id="clock"></div>
+                        <div id="clock">
+                            <div class="box"><div><div class="time" id="clock-d"></div> <span>{{ $t("title.Days")}}</span> </div></div>
+                            <div class="box"><div><div class="time" id="clock-h"></div> <span>{{ $t("title.Hours")}}</span> </div></div>
+                            <div class="box"><div><div class="time" id="clock-m"></div> <span>{{ $t("title.Minutes")}}</span> </div></div>
+                            <div class="box"><div><div class="time" id="clock-s"></div> <span>{{ $t("title.Seconds")}}</span> </div></div>
+                    </div>
                     </div>
                 </div>
             </div>
