@@ -1,4 +1,7 @@
 {
+  "include": [
+    "src/**/*.json"
+  ], 
   "files": [],
   "references": [
     {

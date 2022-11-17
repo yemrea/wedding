@@ -1,0 +1,13 @@
+{
+    "menu":{
+        "Home": "Home",
+        "WeddingInvitation": "Wedding Invitation",
+        "OurStory": "Our Story",
+        "Quiz": "Quiz",
+        "AboutUs": "About Us",
+        "Gallery": "Gallery",
+        "en": "English",
+        "tr": "Turkce",
+        "nl": "Nederland"
+    }
+}

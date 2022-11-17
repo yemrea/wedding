@@ -190,7 +190,7 @@
 					width: 102%;
 					height: 102%;
 					content: "";
-					background: url(../images/couple/mask.jpg) no-repeat center center;
+					background: url(/assets/images/couple/mask.jpg) no-repeat center center;
 					z-index: 9;
 					mix-blend-mode: screen;
 					background-size: 100%;
@@ -805,7 +805,7 @@
 			}
 
 			select.form-control {
-				background: transparent url(../images/select-icon2.png) no-repeat calc(100% - 15px) center;
+				background: transparent url(/assets/images/select-icon2.png) no-repeat calc(100% - 15px) center;
 			}
 
 

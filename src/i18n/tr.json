@@ -1,0 +1,13 @@
+{
+    "menu":{
+        "Home": "Ana Sayfa",
+        "WeddingInvitation": "Davetiye",
+        "OurStory": "Hikayemiz",
+        "Quiz": "Yarisma",
+        "AboutUs": "Hakkimizda",
+        "Gallery": "Galeri",
+        "en": "English",
+        "tr": "Turkce",
+        "nl": "Nederland"
+    }
+}

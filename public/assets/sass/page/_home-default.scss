@@ -701,7 +701,7 @@
 /* 3.7 wpo-banner-section */
 
 .wpo-banner-section {
-	background: url(../images/banner.jpg) no-repeat center center;
+	background: url(/assets/images/banner.jpg) no-repeat center center;
 	height: 400px;
 	display: flex;
 	justify-content: center;
@@ -1243,7 +1243,7 @@
 				-o-appearance: none;
 				appearance: none;
 				-moz-appearance: none;
-				background: transparent url(../images/select-icon.png) no-repeat calc(100% - 15px) center;
+				background: transparent url(/assets/images/select-icon.png) no-repeat calc(100% - 15px) center;
 				position: relative;
 
 				option {
@@ -1258,7 +1258,7 @@
 					-o-appearance: none;
 					appearance: none;
 					-moz-appearance: none;
-					background: transparent url(../images/date.png) no-repeat calc(100% - 15px) center;
+					background: transparent url(/assets/images/date.png) no-repeat calc(100% - 15px) center;
 				}
 			}
 

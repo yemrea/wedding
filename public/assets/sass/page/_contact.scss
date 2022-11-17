@@ -74,11 +74,11 @@
 			-o-appearance: none;
 			appearance: none;
 			-moz-appearance: none;
-			background: transparent url(../images/select-icon2.png) no-repeat calc(100% - 15px) center;
+			background: transparent url(/assets/images/select-icon2.png) no-repeat calc(100% - 15px) center;
 			position: relative;
 
 			&:focus {
-				background: transparent url(../images/select-icon2.png) no-repeat calc(100% - 15px) center;
+				background: transparent url(/assets/images/select-icon2.png) no-repeat calc(100% - 15px) center;
 			}
 		}
 

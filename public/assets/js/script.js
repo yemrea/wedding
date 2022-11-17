@@ -2,6 +2,8 @@
 
     "use strict";
 
+    
+
     /*------------------------------------------
         = ALL ESSENTIAL FUNCTIONS
     -------------------------------------------*/
@@ -119,7 +121,6 @@
     -------------------------------------------*/
     function siteMiddleLogoSetting() {
         if (($(".wpo-header-style-1, .wpo-header-style-3").length) && (window.innerWidth > 991) && ($("#navbar > ul").length)) {
-
             var nav = $("#navbar > ul");
             var navLi = nav.find(">li");
 
@@ -1302,6 +1303,7 @@ wpo-service-active SLIDER
             $pwd.attr('type', 'text');
         }
     });
+
 
 
 })(window.jQuery);

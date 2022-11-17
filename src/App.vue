@@ -1,16 +1,11 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloGuest from './components/HelloGuest.vue'
 </script>
 
 <template>
-  <header>
-    <HelloGuest msg="Ready for Bilgen & Yemre wedding?"></HelloGuest>
-  </header>
-
-  <RouterView />
+<RouterView />
 </template>
-
+<!-- 
 <style scoped>
 header {
   line-height: 1.5;
@@ -69,4 +64,4 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
-</style>
+</style> -->
