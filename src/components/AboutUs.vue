@@ -14,9 +14,7 @@
                             </div>
                             <div class="couple-text">
                                 <h3>Bilgen Fidan</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae
-                                    nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis
-                                    blandit.</p>
+                                <p>{{ $t('text.aboutBilgen') }}</p>
                                 <div class="social">
                                     <ul>
                                         <li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -41,9 +39,7 @@
                             </div>
                             <div class="couple-text">
                                 <h3>Yunus Emre Alpozen</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae
-                                    nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis
-                                    blandit.</p>
+                                <p>{{ $t('text.aboutYemre') }}</p>
                                 <div class="social">
                                     <ul>
                                         <li><a href="#"><i class="ti-facebook"></i></a></li>

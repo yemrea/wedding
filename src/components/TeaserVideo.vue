@@ -1,7 +1,6 @@
 <template>
     <!-- start wpo-video-section -->
     <section class="wpo-video-section-s2 pb-0 section-padding">
-        <h2 class="hidden">some</h2>
         <div class="container">
             <div class="video-wrap">
                 <img src="/assets/images/cta2.jpg" alt="">

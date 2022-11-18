@@ -1,7 +1,6 @@
 <template>
     <!-- start of hero -->
     <section class="wpo-hero-slider wpo-hero-style-3">
-        <h2 class="hidden">some</h2>
         <div class="swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
