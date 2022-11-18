@@ -28,6 +28,16 @@
     },
     "text":{
         "WeAreGettingMarried": "18 Subat 2023'te Evleniyoruz",
-        "AllRightReserved":"Tum haklari saklidir."
+        "AllRightReserved":"Tum haklari saklidir.",
+        "eventTip": "Dugun",
+        "eventTime": "Cumartesi, 18 Şubat 2023 19:30 – 23:30",
+        "eventLocation": "Hyatt Regency Izmir IstinyePark Bahçelerarası, Sehit Binbasi, 35330 Balçova/İzmir, Turkey",
+        "eventLinkText": "Yeri Göster",
+        "eventMenuTip": "Menü",
+        "eventMenuText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
+        "eventMenuLinkText": "Menü Göster",
+        "eventInvitationTip": "Davetiye",
+        "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
+        "eventInvitationLinkText": "Davetiyeyi Göster"
     }
 }

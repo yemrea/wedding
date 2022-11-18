@@ -7,10 +7,20 @@ import router from './router'
 
 import './assets/main.css'
 
+function getCurrentLocale()
+{
+    var locale= navigator.language;
+    if (locale.indexOf("-")>0)
+    {
+        locale= locale.substring(0,locale.indexOf("-"));
+    }
+    return locale;
+}
+
 const i18n=createI18n({
     messages:messages,
-    locale: navigator.language,
-    fallbackLocale: defaultLocale
+    locale: getCurrentLocale(),
+    fallbackLocale:  defaultLocale
 });
 
 const app = createApp(App)

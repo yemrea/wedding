@@ -28,6 +28,16 @@
     },
     "text": {
         "WeAreGettingMarried": "We gaan trouwen op 18 Februari 2023",
-        "AllRightReserved":"Alle rechten voorbehouden."
+        "AllRightReserved":"Alle rechten voorbehouden.",
+        "eventTip": "Bruiloft",
+        "eventTime": "Zaterdag, 18 Februari 2023 19:30 PM – 23:30 PM",
+        "eventLocation": "Hyatt Regency Izmir IstinyePark Bahçelerarası, Sehit Binbasi, 35330 Balçova/İzmir, Turkey",
+        "eventLinkText": "Zien Plaats",
+        "eventMenuTip": "Menukaart",
+        "eventMenuText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
+        "eventMenuLinkText": "Zien Menukaart",
+        "eventInvitationTip": "Uitnodiging",
+        "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
+        "eventInvitationLinkText": "Zien Uitnodiging"
     }
 }

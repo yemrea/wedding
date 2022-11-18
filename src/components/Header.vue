@@ -26,7 +26,7 @@
                         </div>
                         <div class="col-md-6 col-6 d-lg-none dl-block">
                             <div class="navbar-header">
-                                <a class="navbar-brand" href="index.html"><img src="/assets/images/logo.svg" alt=""></a>
+                                <a class="navbar-brand" href="#header"><img src="/assets/images/logo.svg" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-9 col-md-1 col-1">
@@ -43,12 +43,12 @@
                                 </ul>
                             </div><!-- end of nav-collapse -->
                         </div>
-                        <div class="col-lg-1 col-md-1 col-1" >
-                            <div class="header-right" style="border:2px solid #red">
+                        <div class="col-lg-2 col-md-2 col-2" >
+                            <div class="header-right">
                                 <div class="btn-group">
                                     <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"
                                         id="localeSelector">
-                                        <img :src="`/assets/images/locale/${$i18n.locale}.png`" /> {{ $t(`menu.${$i18n.locale}`)}}
+                                        <img :src="`/assets/images/locale/${$i18n.locale}.png`" /> {{ $t(`menu.${$i18n.locale}`)}} 
                                     </button>
                                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="localeSelector">
                                         <li v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale"><a href="#"
