@@ -11,3 +11,5 @@ export const messages = {
 };
 
 export const defaultLocale = Locales.EN;
+
+export const supportedLocales= Locales;

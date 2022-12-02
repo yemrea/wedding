@@ -24,11 +24,6 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6 col-6 d-lg-none dl-block">
-                            <div class="navbar-header">
-                                <a class="navbar-brand" href="#header"><img src="/assets/images/logo.svg" alt=""></a>
-                            </div>
-                        </div>
                         <div class="col-lg-9 col-md-1 col-1">
                             <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                 <button class="menu-close"><i class="ti-close"></i></button>

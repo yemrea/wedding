@@ -4,11 +4,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="footer-image">
-                        <a class="logo" href="index.html"><img src="/assets/images/logo.svg" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-12">
                     <div class="footer-link">
                         <ul>
                             <li><a href="#header">{{ $t('menu.Home') }}</a></li>

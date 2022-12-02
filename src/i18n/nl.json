@@ -24,7 +24,9 @@
         "Minutes": "Minuten",
         "Seconds": "Seconden",
         "HowMuchDoYouKnowUs": "Hoe goed ken je ons?",
-        "PlayAGame": "Laten we een spel spelen!"
+        "PlayAGame": "Laten we een spel spelen!",
+        "Sights": "Sights to see",
+        "SightsText": "Whatelse you can do?"
     },
     "text": {
         "WeAreGettingMarried": "We gaan trouwen op 18 Februari 2023",
@@ -40,6 +42,15 @@
         "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
         "eventInvitationLinkText": "Zien Uitnodiging",
         "aboutBilgen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
-        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit."
+        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
+        "storyItem1Title":"Ze zei JA!",
+        "storyItem1Date": "27 Okt 2022",
+        "storyItem1Text": "",
+        "storyItem2Title":"We zijn verloofd!",
+        "storyItem2Date": "29 Okt 2022",
+        "storyItem2Text": "",
+        "storyItem3Title":"We zijn getrouwd!",
+        "storyItem3Date": "01 Nov 2022",
+        "storyItem3Text": ""
     }
 }

@@ -10,6 +10,7 @@ import OurStory from '@/components/Story.vue';
 import AboutUs from '@/components/AboutUs.vue';
 import TeaserVideo from '@/components/TeaserVideo.vue';
 import Gallery from '@/components/Memories.vue';
+import Sights from '@/components/Sights.vue';
 
 </script>
 
@@ -25,9 +26,10 @@ import Gallery from '@/components/Memories.vue';
       <Event></Event>
       <TeaserVideo></TeaserVideo>
       <OurStory></OurStory>
-      <QuizVue msg="test" />
+      <QuizVue />
       <AboutUs></AboutUs>
       <Gallery></Gallery>
+      <Sights></Sights>
       <Footer></Footer>
     </main>
       </div>

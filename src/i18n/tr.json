@@ -24,7 +24,9 @@
         "Minutes": "Dakika",
         "Seconds": "Saniye",
         "HowMuchDoYouKnowUs": "Bizi ne kadar taniyorsun?",
-        "PlayAGame": "Haydi oynayalim!"
+        "PlayAGame": "Haydi oynayalim!",
+        "Sights": "Sights to see",
+        "SightsText": "Whatelse you can do?"
     },
     "text":{
         "WeAreGettingMarried": "18 Subat 2023'te Evleniyoruz",
@@ -40,6 +42,15 @@
         "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
         "eventInvitationLinkText": "Davetiyeyi Göster",
         "aboutBilgen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
-        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit."
+        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
+        "storyItem1Title":"EVET dedi!",
+        "storyItem1Date": "27 Ekim 2022",
+        "storyItem1Text": "",
+        "storyItem2Title":"Nisanlandik!",
+        "storyItem2Date": "29 Ekim 2022",
+        "storyItem2Text": "",
+        "storyItem3Title":"Nikahlandik!",
+        "storyItem3Date": "01 Kasim 2022",
+        "storyItem3Text": ""
     }
 }

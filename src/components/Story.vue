@@ -18,11 +18,9 @@
                     </div>
                     <div class="wpo-story-content">
                         <div class="wpo-story-content-inner wow fadeInRightSlow" data-wow-duration="1700ms">
-                            <h2>First Time We Meet</h2>
-                            <span>12 Feb 2016</span>
-                            <p>Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies nulla mi tempus mcorper
-                                for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.
-                                Malesuada enim ac amurna tempor vel duis.</p>
+                            <h2>{{ $t('text.storyItem1Title')}}</h2>
+                            <span>{{ $t('text.storyItem1Date')}}</span>
+                            <p>{{ $t('text.storyItem1Text')}}</p>
                         </div>
                     </div>
                 </div>
@@ -37,11 +35,9 @@
                     </div>
                     <div class="wpo-story-content">
                         <div class="wpo-story-content-inner wow fadeInLeftSlow" data-wow-duration="1700ms">
-                            <h2>Our First Date</h2>
-                            <span>23 Apr 2016</span>
-                            <p>Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies nulla mi tempus mcorper
-                                for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.
-                                Malesuada enim ac amurna tempor vel duis.</p>
+                            <h2>{{ $t('text.storyItem2Title')}}</h2>
+                            <span>{{ $t('text.storyItem2Date')}}</span>
+                            <p>{{ $t('text.storyItem2Text')}}</p>
                         </div>
                     </div>
                 </div>
@@ -56,11 +52,9 @@
                     </div>
                     <div class="wpo-story-content">
                         <div class="wpo-story-content-inner wow fadeInRightSlow" data-wow-duration="1700ms">
-                            <h2>She Said Yes</h2>
-                            <span>10 Mar 2016</span>
-                            <p>Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies nulla mi tempus mcorper
-                                for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.
-                                Malesuada enim ac amurna tempor vel duis.</p>
+                            <h2>{{ $t('text.storyItem3Title')}}</h2>
+                            <span>{{ $t('text.storyItem3Date')}}</span>
+                            <p>{{ $t('text.storyItem3Text')}}</p>
                         </div>
                     </div>
                 </div>

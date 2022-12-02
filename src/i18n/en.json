@@ -24,7 +24,10 @@
         "Minutes": "Mins",
         "Seconds": "Sec",
         "HowMuchDoYouKnowUs": "How well do you know us?",
-        "PlayAGame": "Let's play a game!"
+        "PlayAGame": "Let's play a game!",
+        "Sights": "Sights to see",
+        "SightsText": "Whatelse you can do?"
+
     },
     "text":{
         "WeAreGettingMarried": "We Are Getting Married on February 18, 2023",
@@ -40,6 +43,15 @@
         "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
         "eventInvitationLinkText": "See invitation",
         "aboutBilgen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
-        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit."
+        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
+        "storyItem1Title":"She said YES!",
+        "storyItem1Date": "27 October 2022",
+        "storyItem1Text": "",
+        "storyItem2Title":"We are engaged!",
+        "storyItem2Date": "29 October 2022",
+        "storyItem2Text": "",
+        "storyItem3Title":"We did it!",
+        "storyItem3Date": "01 November 2022",
+        "storyItem3Text": ""
     }
 }
