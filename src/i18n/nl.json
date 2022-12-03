@@ -51,6 +51,20 @@
         "storyItem2Text": "",
         "storyItem3Title":"We zijn getrouwd!",
         "storyItem3Date": "01 Nov 2022",
-        "storyItem3Text": ""
+        "storyItem3Text": "",
+        "sightsCarouselItem1Title": "İzmir Clock Tower",
+        "sightsCarouselItem1LinkText":"See map",
+        "sightsCarouselItem2Title": "Kordon",
+        "sightsCarouselItem2LinkText":"See map",
+        "sightsCarouselItem3Title": "İzmir Historical Elevator Building",
+        "sightsCarouselItem3LinkText":"See map",
+        "sightsCarouselItem4Title": "Ephesus Ancient Greek Theatre",
+        "sightsCarouselItem4LinkText":"See map",
+        "sightsCarouselItem5Title": "House of Virgin Mary",
+        "sightsCarouselItem5LinkText":"See map",
+        "sightsCarouselItem6Title": "Şirince",
+        "sightsCarouselItem6LinkText":"See map",
+        "sightsCarouselItem7Title": "Lucien Arkas Vineyard",
+        "sightsCarouselItem7LinkText":"See map"
     }
 }

@@ -10,7 +10,6 @@
                             <li><a href="#event">{{ $t('menu.WeddingInvitation') }}</a></li>
                             <li><a href="#gallery">{{ $t('menu.Gallery') }}</a></li>
                             <li><a href="#couple">{{ $t('menu.AboutUs') }}</a></li>
-                            <li><a href="contact.html">{{ $t('menu.Contact') }}</a></li>
                         </ul>
                     </div>
                 </div>

@@ -38,7 +38,10 @@
                                 </ul>
                             </div><!-- end of nav-collapse -->
                         </div>
-                        <div class="col-lg-2 col-md-2 col-2" >
+                        <div class="col-6 d-block d-sm-block d-md-block d-lg-none">
+                            <p class="menu-title">Bilgen & Yemre</p> 
+                        </div>
+                        <div class="col-lg-2 col-2" >
                             <div class="header-right">
                                 <div class="btn-group">
                                     <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"

@@ -551,6 +551,52 @@ a.ui-button:active, .ui-button:active,
   text-transform: uppercase;
 }
 
+.menu-title 
+{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 58px;
+  margin: 0;
+  position: relative;
+  font-family: "Jost", sans-serif;
+  color: #323232;
+  display: inline-block;
+  position: relative;
+  text-transform: uppercase;
+}
+
+.carousel-item-caption
+{
+  background-color: #f8f9fa;
+  opacity: 0.9;
+  margin: 0px;
+  bottom: 2.5rem;
+}
+.carousel-item-caption h5{
+font-weight: 400;
+font-size: 18px;
+font-family: "Jost", sans-serif;
+color: #323232;
+}
+
+.carousel-item-indicator{  background-color: #000; }
+.indicator li.active { background-color: #D4B0A5; }
+
+.carousel-item-caption p{
+  font-weight: 400;
+  font-size: 16px;
+  padding: 0.25rem;
+  position: relative;
+  line-height: 0px;
+  font-family: "Jost", sans-serif;
+  color: #323232;
+}
+
+.carousel-item-caption a{
+  color: #D4B0A5;
+}
+
+
 .wpo-section-title h2::after,
 .wpo-section-title-s2 h2::after {
   position: absolute;
