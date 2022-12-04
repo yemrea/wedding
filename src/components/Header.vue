@@ -34,6 +34,7 @@
                                     <li><a href="#quiz">{{ $t('menu.Quiz') }}</a></li>
                                     <li><a href="#couple">{{ $t('menu.AboutUs') }}</a></li>
                                     <li><a href="#gallery">{{ $t('menu.Gallery') }}</a></li>
+                                    <li><a href="#sights">{{ $t('menu.Sights') }}</a></li>
 
                                 </ul>
                             </div><!-- end of nav-collapse -->

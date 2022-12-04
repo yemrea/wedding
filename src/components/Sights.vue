@@ -66,6 +66,13 @@
                             <p class="carousel-caption-text"><a class="popup-gmaps carousel-caption-link" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3135.576773393848!2d27.308523215895598!3d38.19650397968491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd85e31cb3b99%3A0x670f167eef1ea7bc!2sLucien%20Arkas%20Ba%C4%9Flar%C4%B1%20-%20LA%20Mahzen!5e0!3m2!1sen!2snl!4v1670075725506!5m2!1sen!2snl">{{ $t('text.sightsCarouselItem7LinkText') }}</a></p>
                         </div>
                     </div>
+                    <div class="carousel-item">
+                        <img src="/assets/images/sights/troy-national-park.jpg" class="d-block w-100" alt="{{ $t('text.sightsCarouselItem8Title') }}">
+                        <div class="carousel-caption bg-light carousel-item-caption">
+                            <h5>{{ $t('text.sightsCarouselItem8Title') }}</h5>
+                            <p class="carousel-caption-text"><a class="popup-gmaps carousel-caption-link" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.2805333795945!2d26.23670641593385!3d39.957480179421175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b05025420d2251%3A0xb573bfef2cf9ea13!2sAncient%20City%20of%20Troy!5e0!3m2!1sen!2snl!4v1670176272664!5m2!1sen!2snl">{{ $t('text.sightsCarouselItem8LinkText') }}</a></p>
+                        </div>
+                    </div>                    
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#sightsToSee"
                     data-bs-slide="prev">

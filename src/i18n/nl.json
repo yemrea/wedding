@@ -7,8 +7,9 @@
         "AboutUs": "Over Ons",
         "Contact": "Contact",
         "Gallery": "Galerij",
+        "Sights": "Bezienswaardigheid",
         "en": "English",
-        "tr": "Turkce",
+        "tr": "Türkçe",
         "nl": "Nederland"
     },
     "title": {
@@ -53,18 +54,20 @@
         "storyItem3Date": "01 Nov 2022",
         "storyItem3Text": "",
         "sightsCarouselItem1Title": "İzmir Clock Tower",
-        "sightsCarouselItem1LinkText":"See map",
+        "sightsCarouselItem1LinkText":"Zien Kaart",
         "sightsCarouselItem2Title": "Kordon",
-        "sightsCarouselItem2LinkText":"See map",
+        "sightsCarouselItem2LinkText":"Zien Kaart",
         "sightsCarouselItem3Title": "İzmir Historical Elevator Building",
-        "sightsCarouselItem3LinkText":"See map",
+        "sightsCarouselItem3LinkText":"Zien Kaart",
         "sightsCarouselItem4Title": "Ephesus Ancient Greek Theatre",
-        "sightsCarouselItem4LinkText":"See map",
+        "sightsCarouselItem4LinkText":"Zien Kaart",
         "sightsCarouselItem5Title": "House of Virgin Mary",
-        "sightsCarouselItem5LinkText":"See map",
+        "sightsCarouselItem5LinkText":"Zien Kaart",
         "sightsCarouselItem6Title": "Şirince",
-        "sightsCarouselItem6LinkText":"See map",
+        "sightsCarouselItem6LinkText":"Zien Kaart",
         "sightsCarouselItem7Title": "Lucien Arkas Vineyard",
-        "sightsCarouselItem7LinkText":"See map"
+        "sightsCarouselItem7LinkText":"Zien Kaart",
+        "sightsCarouselItem8Title": "Ancient City of Troy",
+        "sightsCarouselItem8LinkText":"Zien Kaart"
     }
 }

@@ -7,8 +7,9 @@
         "AboutUs": "About Us",
         "Gallery": "Gallery",
         "Contact": "Contacts",
+        "Sights": "Sights",
         "en": "English",
-        "tr": "Turkce",
+        "tr": "Türkçe",
         "nl": "Nederland"
     },
     "title":{
@@ -26,7 +27,7 @@
         "HowMuchDoYouKnowUs": "How well do you know us?",
         "PlayAGame": "Let's play a game!",
         "Sights": "Sights to see",
-        "SightsText": "Whatelse you can do?"
+        "SightsText": "What Else you can do?"
 
     },
     "text":{
@@ -66,6 +67,8 @@
         "sightsCarouselItem6Title": "Şirince",
         "sightsCarouselItem6LinkText":"See map",
         "sightsCarouselItem7Title": "Lucien Arkas Vineyard",
-        "sightsCarouselItem7LinkText":"See map"
+        "sightsCarouselItem7LinkText":"See map",
+        "sightsCarouselItem8Title": "Ancient City of Troy",
+        "sightsCarouselItem8LinkText":"See map"
     }
 }

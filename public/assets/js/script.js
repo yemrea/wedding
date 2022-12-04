@@ -964,7 +964,7 @@ wpo-service-active SLIDER
         = COUNTDOWN CLOCK
     -------------------------------------------*/
     if ($("#clock").length) {
-        $('#clock').countdown('2023/02/18 19:30:00', function (event) {
+        $('#clock').countdown(Date.UTC(2023,1,18,16,0), function (event) {
             var $this = $("#clock-d").html(event.strftime('%D'));
             var $this = $("#clock-h").html(event.strftime('%H'));
             var $this = $("#clock-m").html(event.strftime('%M'));
