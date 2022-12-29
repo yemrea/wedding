@@ -4,17 +4,17 @@
         <div class="swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="slide-inner slide-bg-image" data-background="/assets/images/hero/slide-1.jpg">
+                    <div class="slide-inner slide-bg-image" data-background="/assets/images/hero/slide-1.JPG">
                     </div> <!-- end slide-inner -->
                 </div> <!-- end swiper-slide -->
 
                 <div class="swiper-slide">
-                    <div class="slide-inner slide-bg-image" data-background="/assets/images/hero/slide-2.jpg">
+                    <div class="slide-inner slide-bg-image" data-background="/assets/images/hero/slide-2.JPG">
                     </div> <!-- end slide-inner -->
                 </div> <!-- end swiper-slide -->
 
                 <div class="swiper-slide">
-                    <div class="slide-inner slide-bg-image" data-background="/assets/images/hero/slide-3.jpg">
+                    <div class="slide-inner slide-bg-image" data-background="/assets/images/hero/slide-3.JPG">
                     </div> <!-- end slide-inner -->
                 </div> <!-- end swiper-slide -->
 
