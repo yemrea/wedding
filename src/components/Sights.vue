@@ -6,15 +6,16 @@
                 <h2>{{ $t('title.SightsText') }}</h2>
             </div>
         <div class="container">
-            <div id="sightsToSee" class="carousel carousel-fade" data-bs-ride="carousel">
+            <div id="sightsToSee" class="carousel slide carousel-fade" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="1" class="carousel-item-indicator" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="4" aria-label="Slide 5"></button>
-                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="5" aria-label="Slide 6"></button>
-                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="6" aria-label="Slide 7"></button>
+                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="2" class="carousel-item-indicator" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="3" class="carousel-item-indicator" aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="4" class="carousel-item-indicator" aria-label="Slide 5"></button>
+                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="5" class="carousel-item-indicator" aria-label="Slide 6"></button>
+                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="6" class="carousel-item-indicator" aria-label="Slide 7"></button>
+                    <button type="button" data-bs-target="#sightsToSee" data-bs-slide-to="7" class="carousel-item-indicator" aria-label="Slide 8"></button>
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
