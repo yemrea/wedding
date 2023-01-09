@@ -26,7 +26,7 @@
                 </div>
                 <div class="col-12">
                     <div class="copyright">
-                        <p>© Copyright 2022 | <a href="#">Bilgen & Yemre</a> | {{$t('text.AllRightReserved')}}</p>
+                        <p>© Copyright 2023 | <a href="#">Bilgen & Yemre</a> | {{$t('text.AllRightReserved')}}</p>
                     </div>
                 </div>
             </div>
