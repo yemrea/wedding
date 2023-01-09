@@ -44,7 +44,7 @@ export default {
     const customScript = document.createElement("script");
     customScript.setAttribute(
       "src",
-      "/assets/js/script.js"
+      "/js/script.js"
     );
     document.head.appendChild(customScript);
   }

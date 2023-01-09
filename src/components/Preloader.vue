@@ -7,7 +7,7 @@
                 <div class="loader-line-mask">
                     <div class="loader-line"></div>
                 </div>
-                <img src="/assets/images/preloader.svg" alt="">
+                <img src="@/assets/images/preloader.svg" alt="">
             </div>
         </div>
     </div>

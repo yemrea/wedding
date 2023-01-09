@@ -47,11 +47,11 @@
                                 <div class="btn-group">
                                     <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"
                                         id="localeSelector">
-                                        <img :src="`/assets/images/locale/${$i18n.locale}.png`" /> {{ $t(`menu.${$i18n.locale}`)}} 
+                                        <img :src="`/imgs/locale/${$i18n.locale}.png`" /> {{ $t(`menu.${$i18n.locale}`)}} 
                                     </button>
                                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="localeSelector">
                                         <li v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale"><a href="#"
-                                                @click="$i18n.locale=`${locale}`" class="dropdown-item pe-auto"> <img :src="`/assets/images/locale/${locale}.png`" /> {{
+                                                @click="$i18n.locale=`${locale}`" class="dropdown-item pe-auto"> <img :src="`/imgs/locale/${locale}.png`" /> {{
                                                 $t(`menu.${locale}`)}}</a></li>
                                     </ul>
                                 </div>

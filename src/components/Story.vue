@@ -10,10 +10,10 @@
                 <div class="wpo-story-item">
                     <div class="wpo-story-img-wrap">
                         <div class="wpo-story-img wow zoomIn" data-wow-duration="1000ms">
-                            <img src="/assets/images/story/1.jpg" alt="">
+                            <img src="@/assets/images/story/1.jpg" alt="">
                         </div>
                         <div class="wpo-img-shape">
-                            <img src="/assets/images/story/shape.png" alt="">
+                            <img src="@/assets/images/story/shape.png" alt="">
                         </div>
                     </div>
                     <div class="wpo-story-content">
@@ -27,10 +27,10 @@
                 <div class="wpo-story-item">
                     <div class="wpo-story-img-wrap">
                         <div class="wpo-story-img wow zoomIn" data-wow-duration="1000ms">
-                            <img src="/assets/images/story/2.jpg" alt="">
+                            <img src="@/assets/images/story/2.jpg" alt="">
                         </div>
                         <div class="wpo-img-shape">
-                            <img src="/assets/images/story/shape.png" alt="">
+                            <img src="@/assets/images/story/shape.png" alt="">
                         </div>
                     </div>
                     <div class="wpo-story-content">
@@ -44,10 +44,10 @@
                 <div class="wpo-story-item">
                     <div class="wpo-story-img-wrap">
                         <div class="wpo-story-img wow zoomIn" data-wow-duration="1000ms">
-                            <img src="/assets/images/story/3.jpg" alt="">
+                            <img src="@/assets/images/story/3.jpg" alt="">
                         </div>
                         <div class="wpo-img-shape">
-                            <img src="/assets/images/story/shape.png" alt="">
+                            <img src="@/assets/images/story/shape.png" alt="">
                         </div>
                     </div>
                     <div class="wpo-story-content">

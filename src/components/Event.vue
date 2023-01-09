@@ -11,9 +11,9 @@
                     <div class="col col-lg-6 col-md-6 col-12">
                         <div class="wpo-event-item">
                             <div class="wpo-event-img">
-                                <a href="/assets/images/event/invitation.png" class="fancybox"
+                                <a href="@/assets/images/event/invitation.jpg" class="fancybox"
                                             data-fancybox-group="event-1">
-                                <img src="/assets/images/event/invitation.png" alt="{{ $t('text.eventInvitationText') }}" />
+                                <img src="@/assets/images/event/invitation.jpg" alt="{{ $t('text.eventInvitationText') }}" />
                                 </a>
                             </div>
                             <div class="wpo-event-text">
@@ -30,9 +30,9 @@
                     <div class="col col-lg-6 col-md-6 col-12">
                         <div class="wpo-event-item">
                             <div class="wpo-event-img">
-                                <a href="/assets/images/event/menu.jpg" class="fancybox"
+                                <a href="@/assets/images/event/menu.jpg" class="fancybox"
                                             data-fancybox-group="event-1">
-                                <img src="/assets/images/event/menu.jpg" alt="{{ $t('text.eventInvitationText') }}" />
+                                <img src="@/assets/images/event/menu.jpg" alt="{{ $t('text.eventInvitationText') }}" />
                                 </a>
                             </div>
                             <div class="wpo-event-text">

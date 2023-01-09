@@ -13,9 +13,9 @@
                             <div class="portfolio-grids gallery-container clearfix">
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="/assets/images/gallery/img-1.jpg" class="fancybox"
+                                        <a href="@/assets/images/gallery/img-1.jpg" class="fancybox"
                                             data-fancybox-group="gall-1">
-                                            <img src="/assets/images/gallery/img-1.jpg" class="img img-responsive">
+                                            <img src="@/assets/images/gallery/img-1.jpg" class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
                                             </div>
@@ -25,9 +25,9 @@
 
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="/assets/images/gallery/img-2.jpg" class="fancybox"
+                                        <a href="@/assets/images/gallery/img-2.jpg" class="fancybox"
                                             data-fancybox-group="gall-1">
-                                            <img src="/assets/images/gallery/img-2.jpg" class="img img-responsive">
+                                            <img src="@/assets/images/gallery/img-2.jpg" class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
                                             </div>
@@ -36,9 +36,9 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="/assets/images/gallery/img-3.jpg" class="fancybox"
+                                        <a href="@/assets/images/gallery/img-3.jpg" class="fancybox"
                                             data-fancybox-group="gall-1">
-                                            <img src="/assets/images/gallery/img-3.jpg" class="img img-responsive">
+                                            <img src="@/assets/images/gallery/img-3.jpg" class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
                                             </div>
@@ -47,9 +47,9 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="/assets/images/gallery/img-4.jpg" class="fancybox"
+                                        <a href="@/assets/images/gallery/img-4.jpg" class="fancybox"
                                             data-fancybox-group="gall-1">
-                                            <img src="/assets/images/gallery/img-4.jpg" class="img img-responsive">
+                                            <img src="@/assets/images/gallery/img-4.jpg" class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
                                             </div>
@@ -58,9 +58,9 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="/assets/images/gallery/img-5.jpg" class="fancybox"
+                                        <a href="@/assets/images/gallery/img-5.jpg" class="fancybox"
                                             data-fancybox-group="gall-1">
-                                            <img src="/assets/images/gallery/img-5.jpg" class="img img-responsive">
+                                            <img src="@/assets/images/gallery/img-5.jpg" class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
                                             </div>
@@ -69,9 +69,9 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="/assets/images/gallery/img-6.jpg" class="fancybox"
+                                        <a href="@/assets/images/gallery/img-6.jpg" class="fancybox"
                                             data-fancybox-group="gall-1">
-                                            <img src="/assets/images/gallery/img-6.jpg" class="img img-responsive">
+                                            <img src="@/assets/images/gallery/img-6.jpg" class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
                                             </div>

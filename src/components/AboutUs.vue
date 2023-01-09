@@ -10,7 +10,7 @@
                     <div class="col col-md-5 col-12">
                         <div class="couple-item wow fadeInLeftSlow" data-wow-duration="1700ms">
                             <div class="couple-img">
-                                <img src="/assets/images/couple/img-1.png" alt="">
+                                <img src="@/assets/images/couple/img-1.png" alt="">
                             </div>
                             <div class="couple-text">
                                 <h3>Bilgen Fidan</h3>
@@ -28,14 +28,14 @@
                     <div class="col col-md-2 col-12">
                         <div class="middle-couple-shape wow fadeInUp" data-wow-duration="1000ms">
                             <div class="shape">
-                                <img src="/assets/images/couple/shape.png" alt="">
+                                <img src="@/assets/images/couple/shape.png" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col col-md-5 col-12">
                         <div class="couple-item wow fadeInRightSlow" data-wow-duration="1700ms">
                             <div class="couple-img">
-                                <img src="/assets/images/couple/img-2.png" alt="">
+                                <img src="@/assets/images/couple/img-2.png" alt="">
                             </div>
                             <div class="couple-text">
                                 <h3>Yunus Emre Alpozen</h3>
