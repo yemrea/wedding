@@ -1,2 +1,18 @@
 @import "./base.css";
 
+@import "./themify-icons.css";
+@import "./font-awesome.min.css";
+@import "./flaticon.css";
+@import "./magnific-popup.css";
+@import "./bootstrap.min.css";
+@import "./animate.css";
+@import "./owl.carousel.css";
+@import "./owl.theme.css";
+@import "./slick.css";
+@import "./slick-theme.css";
+@import "./swiper.min.css";
+@import "./nice-select.css";
+@import "./owl.transitions.css";
+@import "./jquery.fancybox.css";
+@import "./odometer-theme-default.css";
+@import "./jquery-ui.css";
