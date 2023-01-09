@@ -1,3 +1,7 @@
+<script lang="ts" setup>
+import invitation from "@/assets/images/event/invitation.jpg";
+import menu from "@/assets/images/event/menu.jpg";
+</script>
 <template>
     <!-- start wpo-event-section -->
     <section class="wpo-event-section section-padding pb-0" id="event">
@@ -11,9 +15,9 @@
                     <div class="col col-lg-6 col-md-6 col-12">
                         <div class="wpo-event-item">
                             <div class="wpo-event-img">
-                                <a href="@/assets/images/event/invitation.jpg" class="fancybox"
+                                <a :href="`${invitation}`" class="fancybox"
                                             data-fancybox-group="event-1">
-                                <img src="@/assets/images/event/invitation.jpg" alt="{{ $t('text.eventInvitationText') }}" />
+                                <img :src="`${invitation}`" alt="{{ $t('text.eventInvitationText') }}" />
                                 </a>
                             </div>
                             <div class="wpo-event-text">
@@ -30,9 +34,9 @@
                     <div class="col col-lg-6 col-md-6 col-12">
                         <div class="wpo-event-item">
                             <div class="wpo-event-img">
-                                <a href="@/assets/images/event/menu.jpg" class="fancybox"
+                                <a :href="`${menu}`" class="fancybox"
                                             data-fancybox-group="event-1">
-                                <img src="@/assets/images/event/menu.jpg" alt="{{ $t('text.eventInvitationText') }}" />
+                                <img :src="`${menu}`" alt="{{ $t('text.eventInvitationText') }}" />
                                 </a>
                             </div>
                             <div class="wpo-event-text">
