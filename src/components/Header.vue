@@ -5,7 +5,7 @@
             <nav class="navigation navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
                     <div class="row align-items-center">
-                        <div class="col-md-3 col-3 d-lg-none d-block">
+                        <div class="col-md-2 col-2 d-lg-none d-block">
                             <div class="mobail-menu">
                                 <button type="button" class="navbar-toggler open-btn">
                                     <span class="sr-only">Toggle navigation</span>
