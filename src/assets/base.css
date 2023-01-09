@@ -3874,6 +3874,7 @@ a.ui-button:active, .ui-button:active,
 .wpo-hero-slider-s3 .swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
 .wpo-hero-slider-s4 .swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
   margin: 20px 0 !important;
+  display: none;
 }
 
 .wpo-hero-slider .swiper-pagination,
