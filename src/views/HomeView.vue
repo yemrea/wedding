@@ -24,8 +24,8 @@ import Sights from '@/components/Sights.vue';
       <Hero></Hero>
       <WeddingDate></WeddingDate>
       <Event></Event>
-      <TeaserVideo></TeaserVideo>
       <OurStory></OurStory>
+      <TeaserVideo></TeaserVideo>
       <!-- <QuizVue /> -->
       <AboutUs></AboutUs>
       <Gallery></Gallery>
