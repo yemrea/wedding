@@ -15,15 +15,6 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-6 col-6 d-lg-block d-none">
-                            <div class="social-info">
-                                <ul>
-                                    <li><a href="#"><i class="fi flaticon-facebook-app-symbol"></i></a></li>
-                                    <li><a href="#"><i class="fi flaticon-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fi flaticon-linkedin"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
                         <div class="col-lg-9 col-md-1 col-1">
                             <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                 <button class="menu-close"><i class="ti-close"></i></button>

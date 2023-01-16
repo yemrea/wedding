@@ -27,8 +27,8 @@
         "HowMuchDoYouKnowUs": "How well do you know us?",
         "PlayAGame": "Let's play a game!",
         "Sights": "Sights to see",
-        "SightsText": "What Else you can do?"
-
+        "SightsText": "What Else you can do?",
+        "WeddingPhotos": "Wedding Photos"
     },
     "text":{
         "WeAreGettingMarried": "We Are Getting Married on February 18, 2023",
@@ -43,8 +43,8 @@
         "eventInvitationTip": "Invitation",
         "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
         "eventInvitationLinkText": "See invitation",
-        "aboutBilgen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
-        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
+        "aboutBilgen": "She is from Aydın, Turkey. She is a computer engineer who lives in İstanbul. Works for Türk Telekom as an agile coach for almost 8 years.",
+        "aboutYemre": " He is from İzmir, Turkey. He is a computer engineer who lives in the Netherlands. Works for Microsoft for almost 12 years. Computer geek and a big fan of Beşiktaş JK.",
         "storyItem1Title":"She said YES!",
         "storyItem1Date": "27 October 2022",
         "storyItem1Text": "",
@@ -69,6 +69,8 @@
         "sightsCarouselItem7Title": "Lucien Arkas Vineyard",
         "sightsCarouselItem7LinkText":"See map",
         "sightsCarouselItem8Title": "Ancient City of Troy",
-        "sightsCarouselItem8LinkText":"See map"
+        "sightsCarouselItem8LinkText":"See map",
+        "weddingPhotosNotReadyYetTitle": "Stay tuned!",
+        "weddingPhotosNotReadyYet": "You will be able to see all photos after March 1st."
     }
 }

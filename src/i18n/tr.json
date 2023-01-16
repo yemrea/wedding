@@ -27,7 +27,8 @@
         "HowMuchDoYouKnowUs": "Bizi ne kadar tanıyorsun?",
         "PlayAGame": "Haydi oynayalım!",
         "Sights": "Görülecek Yerler",
-        "SightsText": "Başka ne yapabilirsin?"
+        "SightsText": "Başka ne yapabilirsin?",
+        "WeddingPhotos": "Dügünümüzden Kareler"
     },
     "text":{
         "WeAreGettingMarried": "18 Şubat 2023'te Evleniyoruz",
@@ -42,8 +43,8 @@
         "eventInvitationTip": "Davetiye",
         "eventInvitationText": "Lorem ipsum dolor sit amet, constetur adicng elit. Ultricies tempus mcorper for praesent. Ultricies interdum volutpat morbi nam ornare neque elit leo, diam.",
         "eventInvitationLinkText": "Davetiyeyi Göster",
-        "aboutBilgen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
-        "aboutYemre": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna orci auctor vitae nisl. Erat fringilla pellentesque amet tempus. Commodo mi vitae, sagittis blandit.",
+        "aboutBilgen": "Yenipazar, Aydınlı bir bilgisayar mühendisi. İstanbul'da yaşıyor. Neredeyse 8 senedir Türk Telekom'da Agile Coach olarak çalışıyor.",
+        "aboutYemre": " İzmirli bir bilgisayar mühendisi. Hollanda'da yaşıyor. Neredeyse 12 senedir Microsoft'ta çalışıyor. Bilgisayar kurdu ve koyu bir Beşiktaş JK taraftarı.",
         "storyItem1Title":"EVET dedi!",
         "storyItem1Date": "27 Ekim 2022",
         "storyItem1Text": "",
@@ -53,21 +54,23 @@
         "storyItem3Title":"Nikahlandık!",
         "storyItem3Date": "01 Kasim 2022",
         "storyItem3Text": "",
-        "sightsCarouselItem1Title": "İzmir Clock Tower",
+        "sightsCarouselItem1Title": "İzmir Saat Kulesi",
         "sightsCarouselItem1LinkText":"Haritayı Göster",
         "sightsCarouselItem2Title": "Kordon",
         "sightsCarouselItem2LinkText":"Haritayı Göster",
-        "sightsCarouselItem3Title": "İzmir Historical Elevator Building",
+        "sightsCarouselItem3Title": "İzmir Tarihi Asansör Binası",
         "sightsCarouselItem3LinkText":"Haritayı Göster",
-        "sightsCarouselItem4Title": "Ephesus Ancient Greek Theatre",
+        "sightsCarouselItem4Title": "Efes Antik Tiyatrosu",
         "sightsCarouselItem4LinkText":"Haritayı Göster",
-        "sightsCarouselItem5Title": "House of Virgin Mary",
+        "sightsCarouselItem5Title": "Meryem Ana Kilisesi",
         "sightsCarouselItem5LinkText":"Haritayı Göster",
         "sightsCarouselItem6Title": "Şirince",
         "sightsCarouselItem6LinkText":"Haritayı Göster",
-        "sightsCarouselItem7Title": "Lucien Arkas Vineyard",
+        "sightsCarouselItem7Title": "Lucien Arkas Şarap evleri",
         "sightsCarouselItem7LinkText":"Haritayı Göster",
-        "sightsCarouselItem8Title": "Ancient City of Troy",
-        "sightsCarouselItem8LinkText":"Haritayı Göster"
+        "sightsCarouselItem8Title": "Antik Truva Şehri",
+        "sightsCarouselItem8LinkText":"Haritayı Göster",
+        "weddingPhotosNotReadyYetTitle": "Bizi izlemeye devam edin!",
+        "weddingPhotosNotReadyYet": "Tüm fotoğrafları 1 Mart'tan sonra burada görebileceksiniz."
     }
 }

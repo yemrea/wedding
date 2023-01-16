@@ -11,7 +11,7 @@ import AboutUs from '@/components/AboutUs.vue';
 import TeaserVideo from '@/components/TeaserVideo.vue';
 import Gallery from '@/components/Memories.vue';
 import Sights from '@/components/Sights.vue';
-
+import WeddingPhotos from '@/components/WeddingPhotos.vue';
 </script>
 
 
@@ -30,6 +30,7 @@ import Sights from '@/components/Sights.vue';
       <AboutUs></AboutUs>
       <Gallery></Gallery>
       <Sights></Sights>
+      <WeddingPhotos></WeddingPhotos>
       <Footer></Footer>
     </main>
       </div>
