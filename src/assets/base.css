@@ -17995,3 +17995,8 @@ wpo-hero-slider-s4
 a:link { text-decoration: none;}
 
 .menu-title{ font-family: "monallesia"}
+
+.carousel-caption-link{
+  color: #D4B0A5;
+  text-decoration: none;
+}

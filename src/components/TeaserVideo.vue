@@ -7,6 +7,9 @@
                 <a href="https://www.youtube.com/embed/29Es4e_dYA8" class="video-btn" data-type="iframe"><i
                         class="fi flaticon-play"></i></a>
             </div>
+            <div class="row">
+                &nbsp;
+            </div>
         </div>
     </section>
     <!-- end wpo-video-section-->

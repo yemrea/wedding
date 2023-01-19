@@ -26,7 +26,6 @@ import WeddingPhotos from '@/components/WeddingPhotos.vue';
       <Event></Event>
       <OurStory></OurStory>
       <TeaserVideo></TeaserVideo>
-      <!-- <QuizVue /> -->
       <AboutUs></AboutUs>
       <Gallery></Gallery>
       <Sights></Sights>
