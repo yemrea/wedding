@@ -5,7 +5,15 @@ import image3 from "@/assets/images/gallery/img-3.jpg";
 import image4 from "@/assets/images/gallery/img-4.jpg";
 import image5 from "@/assets/images/gallery/img-5.jpg";
 import image6 from "@/assets/images/gallery/img-6.jpg";
-var images=[image1,image2,image3,image4,image5,image6];
+import image7 from "@/assets/images/gallery/img-7.jpg";
+import image8 from "@/assets/images/gallery/img-8.jpg";
+import image9 from "@/assets/images/gallery/img-9.jpg";
+import image10 from "@/assets/images/gallery/img-10.jpg";
+import image11 from "@/assets/images/gallery/img-11.jpg";
+import image12 from "@/assets/images/gallery/img-12.jpg";
+import image13 from "@/assets/images/gallery/img-13.jpg";
+import image14 from "@/assets/images/gallery/img-14.jpg";
+var images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14];
 
 </script>
 <template>
