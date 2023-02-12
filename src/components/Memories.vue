@@ -13,7 +13,12 @@ import image11 from "@/assets/images/gallery/img-11.jpg";
 import image12 from "@/assets/images/gallery/img-12.jpg";
 import image13 from "@/assets/images/gallery/img-13.jpg";
 import image14 from "@/assets/images/gallery/img-14.jpg";
-var images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14];
+import image15 from "@/assets/images/gallery/img-15.jpg";
+import image16 from "@/assets/images/gallery/img-16.jpg";
+import image17 from "@/assets/images/gallery/img-17.jpg";
+import image18 from "@/assets/images/gallery/img-18.jpg";
+import image19 from "@/assets/images/gallery/img-19.jpg";
+var images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18,image19];
 
 </script>
 <template>
