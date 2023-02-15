@@ -18,7 +18,10 @@ import image16 from "@/assets/images/gallery/img-16.jpg";
 import image17 from "@/assets/images/gallery/img-17.jpg";
 import image18 from "@/assets/images/gallery/img-18.jpg";
 import image19 from "@/assets/images/gallery/img-19.jpg";
-var images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18,image19];
+import image20 from "@/assets/images/gallery/img-20.jpg";
+import image21 from "@/assets/images/gallery/img-21.jpg";
+import image22 from "@/assets/images/gallery/img-22.jpg";
+var images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18,image19,image20,image21,image22];
 
 </script>
 <template>
