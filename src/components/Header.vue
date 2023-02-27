@@ -20,12 +20,8 @@
                                 <button class="menu-close"><i class="ti-close"></i></button>
                                 <ul class="nav navbar-nav mb-2 mb-lg-0">
                                     <li><a href="#header">{{ $t('menu.Home') }}</a></li>
-                                    <li><a href="#event">{{ $t('menu.WeddingInvitation') }}</a></li>
                                     <li><a href="#story">{{ $t('menu.OurStory') }}</a></li>
                                     <li><a href="#couple">{{ $t('menu.AboutUs') }}</a></li>
-                                    <li><a href="#gallery">{{ $t('menu.Gallery') }}</a></li>
-                                    <li><a href="#sights">{{ $t('menu.Sights') }}</a></li>
-
                                 </ul>
                             </div><!-- end of nav-collapse -->
                         </div>
