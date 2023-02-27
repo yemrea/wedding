@@ -22,6 +22,7 @@
                                     <li><a href="#header">{{ $t('menu.Home') }}</a></li>
                                     <li><a href="#story">{{ $t('menu.OurStory') }}</a></li>
                                     <li><a href="#couple">{{ $t('menu.AboutUs') }}</a></li>
+                                    <li><a href="#weddingPhotos">{{ $t('menu.WeddingPhotos') }}</a></li>
                                 </ul>
                             </div><!-- end of nav-collapse -->
                         </div>

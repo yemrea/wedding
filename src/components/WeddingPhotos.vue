@@ -1,5 +1,5 @@
 <template>
-    <section class="wpo-contact-section-s3 section-padding" id="quiz">
+    <section class="wpo-contact-section-s3 section-padding" id="weddingPhotos">
         <div class="container">
             <div class="wpo-section-title">
                 <h4>{{ $t('title.WeddingPhotos') }}</h4>
