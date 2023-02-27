@@ -22,13 +22,13 @@ import WeddingPhotos from '@/components/WeddingPhotos.vue';
       <Preloader></Preloader>
       <Header></Header>
       <Hero></Hero>
-      <WeddingDate></WeddingDate>
-      <Event></Event>
+      <!-- <WeddingDate></WeddingDate> -->
+      <!-- <Event></Event> -->
       <OurStory></OurStory>
-      <TeaserVideo></TeaserVideo>
+      <!-- <TeaserVideo></TeaserVideo> -->
       <AboutUs></AboutUs>
-      <Gallery></Gallery>
-      <Sights></Sights>
+      <!-- <Gallery></Gallery> -->
+      <!-- <Sights></Sights> -->
       <WeddingPhotos></WeddingPhotos>
       <Footer></Footer>
     </main>
