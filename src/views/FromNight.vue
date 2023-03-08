@@ -5,7 +5,7 @@ import ImageView from '@/components/ImageView.vue';
 <template>
     <div class="page-wrapper">
         <main>
-            <ImageView :imageCount=0 imagePrefix="from-night" ></ImageView>
+            <ImageView :imageCount=717 imagePrefix="from-night" ></ImageView>
             <div class="clearfix">
               <div class="row">
                 <div class="col-12">
