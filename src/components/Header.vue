@@ -15,7 +15,7 @@
                                 </button>
                             </div>
                         </div>
-                        <div class="col-lg-9 col-md-1 col-1">
+                        <div class="col-lg-10 col-md-1 col-1">
                             <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                 <button class="menu-close"><i class="ti-close"></i></button>
                                 <ul class="nav navbar-nav mb-2 mb-lg-0">

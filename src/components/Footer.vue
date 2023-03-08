@@ -7,11 +7,9 @@
                     <div class="footer-link">
                         <ul>
                             <li><a href="#header">{{ $t('menu.Home') }}</a></li>
-                            <li><a href="#event">{{ $t('menu.WeddingInvitation') }}</a></li>
                             <li><a href="#story">{{ $t('menu.OurStory') }}</a></li>
                             <li><a href="#couple">{{ $t('menu.AboutUs') }}</a></li>
-                            <li><a href="#gallery">{{ $t('menu.Gallery') }}</a></li>
-                            <li><a href="#sights">{{ $t('menu.Sights') }}</a></li>
+                            <li><a href="#weddingPhotos">{{ $t('menu.WeddingPhotos') }}</a></li>
                         </ul>
                     </div>
                 </div>

@@ -72,6 +72,9 @@
         "sightsCarouselItem8Title": "Antik Truva Şehri",
         "sightsCarouselItem8LinkText":"Haritayı Göster",
         "weddingPhotosNotReadyYetTitle": "Bizi izlemeye devam edin!",
-        "weddingPhotosNotReadyYet": "Tüm fotoğrafları 10 Mart'tan sonra burada görebileceksiniz."
+        "weddingPhotosNotReadyYet": "Tüm fotoğrafları 10 Mart'tan sonra burada görebileceksiniz.",
+        "weddingPhotosWithBrideGroom": "Aile ve dostlarla..",
+        "weddingPhotosFromNight": "Geceden..",
+        "weddingPhotosBrideGroom": "İkimiz.."
     }
 }
